@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
   m_Name: QuestSystemLocalizationDbUS
   m_EditorClassIdentifier: 
-  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"d2046048-df0a-4845-b8cb-fc3d37a9cbbf":"Discover
+  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"NO_KEY":"","d2046048-df0a-4845-b8cb-fc3d37a9cbbf":"Discover
     another location","77f9dde3-7e11-4edc-9a2b-955ba6c4047d":"Trigger test","Devdog_LoveHate_Affinity":"Affinity","3d8473b0-0073-45f3-ba45-864cc63fc8c3":"Oh,
     you I like... Did you know you have 40+ affinity?","c5cd37af-0ad1-4320-9fa1-7a2776c1635a":"Helloo!!","feefbe8f-4764-4e27-9418-b680211d9691":"Hello","PlayerQuestStatusChoiceNode_Cancel":"Cancel","aec47f78-02b2-4cd9-84fb-27f062e32e58":"Gather
     me some coins??","PlayerQuestStatusChoiceNode_Accept":"Activate","SomeKey201":"Hi
