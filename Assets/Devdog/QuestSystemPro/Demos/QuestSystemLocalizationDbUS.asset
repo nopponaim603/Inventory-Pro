@@ -3,22 +3,23 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 78b75a309ff767a4bb3ede0d5c1d2f6f, type: 3}
   m_Name: QuestSystemLocalizationDbUS
   m_EditorClassIdentifier: 
-  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"NO_KEY":"","d2046048-df0a-4845-b8cb-fc3d37a9cbbf":"Discover
+  _serializedJsonString: '{"_lang":"en-US","_localizedStrings":{"d2046048-df0a-4845-b8cb-fc3d37a9cbbf":"Discover
     another location","77f9dde3-7e11-4edc-9a2b-955ba6c4047d":"Trigger test","Devdog_LoveHate_Affinity":"Affinity","3d8473b0-0073-45f3-ba45-864cc63fc8c3":"Oh,
     you I like... Did you know you have 40+ affinity?","c5cd37af-0ad1-4320-9fa1-7a2776c1635a":"Helloo!!","feefbe8f-4764-4e27-9418-b680211d9691":"Hello","PlayerQuestStatusChoiceNode_Cancel":"Cancel","aec47f78-02b2-4cd9-84fb-27f062e32e58":"Gather
     me some coins??","PlayerQuestStatusChoiceNode_Accept":"Activate","SomeKey201":"Hi
     there!","2e24db03-5bdc-4254-91d2-a7cdb627e32f":"Create a new one here...","1a9ae26d-aef5-47a5-af85-2b624b1addda":"Hi
     there!","72a4fb20-6717-4719-a760-326100ad8e35":"Want to hear a secret?","e4ee5f53-a07c-467f-a7b5-88ae049dcccb":"[Game]","854d6144-042d-4b8a-8fac-a5d19f3683c3":"Let
-    me think for a moment...","e112b4cf-e622-4e95-bc06-30d205bd1eb7":"That''s... not
-    a secret?","0b64b53a-8892-4bdd-bd84-55b7cffdb078":"Hello!","f64ae8a4-e494-4a44-ad9d-0117620bb51d":"Hi......
+    me think for a moment...","e112b4cf-e622-4e95-bc06-30d205bd1eb7":"That''s...
+    not a secret?","0b64b53a-8892-4bdd-bd84-55b7cffdb078":"Hello!","f64ae8a4-e494-4a44-ad9d-0117620bb51d":"Hi......
     Awkward...","73e35023-eb80-4a79-a137-f75c0773dde5":"You look like a clever guy...","294a38ac-ddd3-4535-bfa2-3d36a06e47f2":"What''s
     2+2?","4ebd3a2a-a355-4520-8fcf-d05ff1fae973":"Ha {UserInput}! Maybe not so smart
     after all...","6ba3bb89-82c2-4c5e-b816-314965b9accf":"Yes! {UserInput}!","db919fda-3fff-430f-9065-6f6e527d95a5":"I''m
